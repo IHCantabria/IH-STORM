@@ -43,9 +43,8 @@ The **postprocessing** folder contains the following Jupyter Notebooks for calcu
   
 ## License
 
-[Include license information if applicable]
+GPL-3.0 license
 
 ## Acknowledgments
 
-- Bloemendaal et al. (2020) for the original STORM model.
-- Odériz and Losada (2025) for updating the model and providing additional functionality.
+- Thanks to the financial support of the project 101111262 — TransClima — HORIZON-MSCA-2022-PF-01 funded by the European Union
