@@ -30,6 +30,10 @@ Once you have activated the environment, you should run the scripts in the follo
 4. `MASTER_storm.py`
 5. `MASTER_storm_parameters.py` (This script extracts additional parameters from the tracks)
 
+
+![IH-STORM flowchart](IH-STORM.drawio.png)
+
+
 ## Post-processing
 
 The **postprocessing** folder contains the following Jupyter Notebooks for calculating return periods:
